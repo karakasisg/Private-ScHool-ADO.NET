@@ -1,0 +1,13 @@
+C:\Users\karab\source\repos\PrivateSchoolDatabase\PrivateSchoolDatabase\obj\Debug\PrivateSchoolDatabase.csprojAssemblyReference.cache
+C:\Users\karab\source\repos\PrivateSchoolDatabase\PrivateSchoolDatabase\bin\Debug\PrivateSchoolDatabase.exe.config
+C:\Users\karab\source\repos\PrivateSchoolDatabase\PrivateSchoolDatabase\bin\Debug\PrivateSchoolDatabase.exe
+C:\Users\karab\source\repos\PrivateSchoolDatabase\PrivateSchoolDatabase\bin\Debug\PrivateSchoolDatabase.pdb
+C:\Users\karab\source\repos\PrivateSchoolDatabase\PrivateSchoolDatabase\obj\Debug\PrivateSchoolDatabase.exe
+C:\Users\karab\source\repos\PrivateSchoolDatabase\PrivateSchoolDatabase\obj\Debug\PrivateSchoolDatabase.pdb
+C:\Users\User\Desktop\GitHub\csharp_individual_part_b\PrivateSchoolDatabase\PrivateSchoolDatabase\bin\Debug\PrivateSchoolDatabase.exe.config
+C:\Users\User\Desktop\GitHub\csharp_individual_part_b\PrivateSchoolDatabase\PrivateSchoolDatabase\bin\Debug\PrivateSchoolDatabase.exe
+C:\Users\User\Desktop\GitHub\csharp_individual_part_b\PrivateSchoolDatabase\PrivateSchoolDatabase\bin\Debug\PrivateSchoolDatabase.pdb
+C:\Users\User\Desktop\GitHub\csharp_individual_part_b\PrivateSchoolDatabase\PrivateSchoolDatabase\obj\Debug\PrivateSchoolDatabase.csprojAssemblyReference.cache
+C:\Users\User\Desktop\GitHub\csharp_individual_part_b\PrivateSchoolDatabase\PrivateSchoolDatabase\obj\Debug\PrivateSchoolDatabase.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\GitHub\csharp_individual_part_b\PrivateSchoolDatabase\PrivateSchoolDatabase\obj\Debug\PrivateSchoolDatabase.exe
+C:\Users\User\Desktop\GitHub\csharp_individual_part_b\PrivateSchoolDatabase\PrivateSchoolDatabase\obj\Debug\PrivateSchoolDatabase.pdb
